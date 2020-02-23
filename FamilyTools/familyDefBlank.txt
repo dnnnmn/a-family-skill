@@ -1,0 +1,29 @@
+*MEMBER*
+# USE ONLY LOWER CASE FOR ALL ENTRIES
+# insert member name
+# insert other ways Mycroft might hear your name
+# Each on their own line
+
+*RELATIVES*
+# The following are all defined relations
+# Enter the appopriate name with a tab after each applicable relation
+# A line may be duplicated if more than one relation of that type exists
+# Delete unused lines including these comments
+husband
+wife
+father
+mother
+son
+daughter
+brother
+sister
+grandfather
+grandmother
+grandson
+granddaughter
+uncle
+aunt
+dog
+
+# Add the above for each member
+# When complete save as familyDef.txt in this directory# Then run makeFiles to generate new files

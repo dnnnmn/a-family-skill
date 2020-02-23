@@ -1,0 +1,41 @@
+*MEMBERS*
+0,don
+0,dawn
+0,my
+1,martha
+1,marthas
+2,tashie
+2,tashak
+2,kakashi
+*RELATIVES*
+****
+Wife,Martha
+father,don maurice
+mother,marjory may
+son,avery
+son,brent
+brother,gary david
+sister,nancy jean
+sister,susan jane
+grandfather,earn
+grandmother,nellie
+grandmother,bessy
+grandson,micah
+grandson,remmy
+grandson,navi
+uncle,tom
+uncle,bill
+uncle,jim
+aunt,marion
+aunt,helen
+aunt,doris
+dog,tachie
+****
+husband,don
+father,richard condon
+mother,ruth elaine
+sister,lynda joy
+dog,tachie
+****
+father,don
+mother,martha

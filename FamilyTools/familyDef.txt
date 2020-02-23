@@ -1,0 +1,48 @@
+*MEMBER*
+don
+dawn
+my
+
+*RELATIVES*
+Wife	Martha
+father	don maurice
+mother	marjory may
+son	avery
+son	brent
+brother	gary david
+sister	nancy jean
+sister	susan jane
+grandfather	earn
+grandmother	nellie
+grandmother	bessy
+grandson	micah
+grandson	remmy
+grandson	navi
+uncle	tom
+uncle	bill
+uncle	jim
+aunt	marion
+aunt	helen
+aunt	doris
+dog	tachie
+
+*MEMBER*
+martha
+marthas
+
+*RELATIVES*
+husband	don
+father	richard condon
+mother	ruth elaine
+sister	lynda joy
+dog	tachie
+
+*MEMBER*
+tashie
+tashak
+kakashi
+
+*RELATIVES*
+father	don
+mother	martha
+

@@ -1,0 +1,15 @@
+husband	spouse	partner
+wife	spouse	partner
+father	dad	pa
+mother	mom	ma
+son	child	kid
+daughter	child	kid
+brother	sibling
+sister	sibling
+grandfather	grandpa
+grandmother	grandma
+grandson	grandchild
+granddaughter	grandchild
+uncle
+aunt
+dog	pet	puppy
